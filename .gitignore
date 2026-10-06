@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+notebooks/01-image-basics/New_Zealand_Lake_SAVED.png
