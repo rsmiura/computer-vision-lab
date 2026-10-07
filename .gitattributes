@@ -1,0 +1,2 @@
+notebooks/11-object-tracking/goturn.caffemodel filter=lfs diff=lfs merge=lfs -text
+notebooks/11-object-tracking/opencv_bootcamp_assets_NB11.zip filter=lfs diff=lfs merge=lfs -text
